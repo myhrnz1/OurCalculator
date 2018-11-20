@@ -1,3 +1,4 @@
+public class OurCalculator{
 public static void main(String[] args){
   printInstructions();
   String quit = "n";
@@ -25,3 +26,4 @@ public static void main(String[] args){
 
   }
  }
+}
